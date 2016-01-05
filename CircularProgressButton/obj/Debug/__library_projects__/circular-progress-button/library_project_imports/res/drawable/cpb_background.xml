@@ -1,0 +1,1 @@
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android"><stroke android:width="@dimen/cpb_stroke_width" android:color="@color/cpb_blue" /><solid android:color="@color/cpb_blue" /></shape><!-- From: file:/C:/Users/vo/Downloads/circular-progress-button-master/library/src/main/res/drawable/cpb_background.xml -->

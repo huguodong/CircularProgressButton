@@ -1,0 +1,8 @@
+E:\xamarin\CircularProgressButton\CircularProgressButton\obj\Debug\assemblies\CircularProgressButton.dll
+E:\xamarin\CircularProgressButton\CircularProgressButton\obj\Debug\assemblies\circular-progress-button.dll
+E:\xamarin\CircularProgressButton\CircularProgressButton\obj\Debug\assemblies\Mono.Android.dll
+E:\xamarin\CircularProgressButton\CircularProgressButton\obj\Debug\assemblies\mscorlib.dll
+E:\xamarin\CircularProgressButton\CircularProgressButton\obj\Debug\assemblies\System.Core.dll
+E:\xamarin\CircularProgressButton\CircularProgressButton\obj\Debug\assemblies\System.dll
+E:\xamarin\CircularProgressButton\CircularProgressButton\obj\Debug\assemblies\System.Xml.dll
+E:\xamarin\CircularProgressButton\CircularProgressButton\obj\Debug\assemblies\System.Xml.Linq.dll
